@@ -17,3 +17,8 @@ TODO:
 3.b.2.a) Email
 3.b.2.b) Workflow
 4) Archive older completed files in Glacier
+5) Tags on files and buckets
+5.a) Arbitrary
+5.b) Metadata Defines
+5.c) Download and Upload of Tags
+6) Dowloand and Upload in Excel
